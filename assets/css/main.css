@@ -974,9 +974,8 @@ table tfoot td {
   position: relative;
   padding-bottom: 15px;
   font-size: 16px;
-  text-transform: uppercase;
   color: #333030;
-  font-weight: 700;
+  font-weight: 300;
 }
 
 .about .author-name::after {

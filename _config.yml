@@ -10,10 +10,10 @@ author: tama2021
 author-img: 
 about-author: 
 social-twitter: tama2021x
-#social-facebook: # add your Facebook handle
+social-facebook: false
 social-github: tama2021
-#social-linkedin: # add your Linkedin handle
-#social-email: # add your Email address
+social-linkedin: false
+social-email: false
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier

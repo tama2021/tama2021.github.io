@@ -1,17 +1,17 @@
-title: https://tama2021.github.io/
-description: 関西在住の50代バツイチフリーエンジニアと2021年度卒業予定の現役大学生の甘い生活を綴ります。
+title: I'm a man.
+description: 関西在住の50代バツイチフリーエンジニアの日常を綴ります
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: ""
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: tama2021
+author: xstar03b
 author-img: 
 about-author: 
-social-twitter: tama2021x
+social-twitter: false
 social-facebook: false
-social-github: tama2021
+social-github: xstar03b
 social-linkedin: false
 social-email: false
 

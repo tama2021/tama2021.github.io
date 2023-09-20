@@ -9,11 +9,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: xstar03b
 author-img: 
 about-author: 
-social-twitter: false
-social-facebook: false
+# social-twitter: false
+# social-facebook: false
 social-github: xstar03b
-social-linkedin: false
-social-email: false
+# social-linkedin: false
+# social-email: false
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
